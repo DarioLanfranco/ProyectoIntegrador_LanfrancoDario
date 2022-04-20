@@ -5,6 +5,12 @@ div{
 	background-color:#5499c7;
 	text-align: center;
 }
+h1{
+	font-weight: 100;
+	font-family: Garamond;
+	font-family: cursive;
+	font-size: 40px;
+}
 
 /*foto de perfil*/
 @media (min-width: 576px){
@@ -13,9 +19,9 @@ div{
 		width: 12%;
 		height: 35%;
 		border-radius: 100%;
-		box-shadow: 3px 3px 3px #000;
+		box-shadow: 6px 4px 10px #000;
 		left: 3%;
-		top: 530px;
+		top: 600px;
 	}
 }
 
@@ -27,7 +33,7 @@ div{
 		border-radius: 100%;
 		box-shadow: 3px 3px 3px #000;
 		left: 33%;
-		top: 570px;
+		top: 950px;
 	}
 }
 
